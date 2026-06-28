@@ -1,5 +1,13 @@
 <img width="150" height="150" alt="Calico-logo-2026-G2-800x800" src="https://github.com/user-attachments/assets/a27fdfcf-35ec-4fcd-bfef-b55ddbb900ca" />
+## 🚀 My Learning Focus
 
+This repository is part of my journey learning:
+
+- Kubernetes networking
+- Calico security policies
+- Cloud-native architecture
+
+This is not just a fork—it's my hands-on learning and experimentation space.
 
 # Calico Community
 
